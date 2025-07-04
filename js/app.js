@@ -577,8 +577,8 @@ function resetSearchArea() {
     document.getElementById('searchInput').value = '';
 
     // 恢复搜索区域的样式
-    document.getElementById('searchArea').classList.add('flex-1');
-    document.getElementById('searchArea').classList.remove('mb-8');
+    //document.getElementById('searchArea').classList.add('flex-1');
+    //document.getElementById('searchArea').classList.remove('mb-8');
     document.getElementById('resultsArea').classList.add('hidden');
 
     // 确保页脚正确显示，移除相对定位
