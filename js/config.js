@@ -15,7 +15,7 @@ const PASSWORD_CONFIG = {
 const SITE_CONFIG = {
     name: 'AxeTV',
     url: 'https://libretv.is-an.org',
-    description: '在线视频平台',
+    description: '在线影视',
     logo: 'image/logo.png',
     version: '1.0.3'
 };
