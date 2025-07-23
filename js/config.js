@@ -24,7 +24,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-        name: '电影天堂资源',
+        name: '电影天堂',
         detail: 'http://caiji.dyttzyapi.com', 
     },
     ruyi: {
@@ -50,7 +50,7 @@ const API_SITES = {
     },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
-        name: '黑木耳',
+        name: '黑风资源',
         detail: 'https://heimuer.tv', 
     },
     zy360: {
